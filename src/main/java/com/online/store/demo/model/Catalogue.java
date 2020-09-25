@@ -18,6 +18,7 @@ public class Catalogue {
 	}
 
 	public Long getId() {
+		system.out.println("Hello");
 		return id;
 	}
 
